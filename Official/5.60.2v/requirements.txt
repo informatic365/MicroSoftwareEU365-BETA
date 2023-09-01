@@ -1,0 +1,8 @@
+customtkinter
+pysmart365
+ttkbootstrap
+firebase_admin
+pyrebase4
+pytube
+pytube3
+requests
